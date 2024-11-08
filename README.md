@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there!
+
+I’m Dennis, diving into backend/frontend work and DevOps to build dynamic, efficient projects. I’m trying out new languages and frameworks atm, so expect some fresh experiments here. Based in Switzerland but collaborating globally.
 
 <!--
 **dGilli/dGilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
