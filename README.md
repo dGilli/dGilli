@@ -2,11 +2,7 @@
 
 I’m Dennis, diving into backend/frontend work and DevOps to build dynamic, efficient projects. I’m trying out new languages and frameworks right now, so expect some fresh experiments here. Based in Switzerland 🇨🇭 but collaborating globally.
 
-- 💼 Lead Developer and PM at [acribis AG](https://acribis.ch/)
 
-- 🔧 Tool of the Month: [Craft CMS](https://craftcms.com)
-
-- 💪 Code harder
 
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
@@ -18,7 +14,11 @@ I’m Dennis, diving into backend/frontend work and DevOps to build dynamic, eff
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="webpack" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/webpack/webpack.png"></code>
 
-<br>
+- 💼 Lead Developer and PM at [acribis AG](https://acribis.ch/)
+
+- 🔧 Tool of the Month: [Craft CMS](https://craftcms.com)
+
+- 💪 Code harder...
 
 <a href="https://github.com/dGilli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dGilli&layout=compact&theme=buefy&hide_border=true" /></a>
 
