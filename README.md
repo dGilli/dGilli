@@ -14,7 +14,7 @@ I’m Dennis, diving into backend/frontend work and DevOps to build dynamic, eff
 <code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
 <code><img height="20" alt="webpack" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/webpack/webpack.png"></code>
 
-- 💼 Lead Developer and PM at [acribis AG](https://acribis.ch/)
+- 💼 Lead Dev and PM at [acribis AG](https://acribis.ch/)
 
 - 🔧 Tool of the Month: [Craft CMS](https://craftcms.com)
 
