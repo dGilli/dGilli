@@ -18,7 +18,7 @@ I’m Dennis, diving into backend/frontend work and DevOps to build dynamic, eff
 
 <br>
 
-<a href="https://github.com/dGilli/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dGilli&layout=compact&theme=buefy&hide_border=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dGilli&layout=compact&theme=buefy&hide_border=true" />
 
 <!--
 **dGilli/dGilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
